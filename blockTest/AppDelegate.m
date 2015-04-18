@@ -8,6 +8,8 @@
 
 // local change to commit
 
+// second local change
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()

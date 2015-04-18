@@ -9,6 +9,8 @@
 
 // local change to commit
 
+// second local change
+
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
