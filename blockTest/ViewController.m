@@ -22,7 +22,8 @@
     [super viewDidLoad];
 
     tmp = 2;
-    
+
+	// test    
     __block int aaa = 5;
     
     void (^block)() = ^{
